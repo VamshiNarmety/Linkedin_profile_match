@@ -8,12 +8,29 @@
 - **Rotating proxy support** for reliable scraping
 - **JSON-based data handling** for easy integration
 
-## Setup the project
-1.Install python 3.10.x
-2.From the terminal, run the following:
+# Setup the Project
+
+Follow the steps below to set up the project environment:
+
+## 1. Clone the Repository
+
+First, clone the repository to your local machine using the following command:
+
 ```bash
-pip3 install -r requirements.txt
+git clone https://github.com/VamshiNarmety/Linkedin_profile_match
 ```
+## 2. Create a Virtual Environment
+Navigate to the project directory and create a virtual environment by running the following command in the terminal:
+`python3 -m venv venv`
+## 3. Activate the Virtual Environment
+## 4. Install Python 3.10.x
+
+## 5. Install Dependencies from `requirements.txt`
+
+With the virtual environment activated, install the required dependencies by running the following command:
+
+`pip install -r requirements.txt`
+
 
 ## Configuration
 Fill in the API details and Proxy credentials in .env _____________.
