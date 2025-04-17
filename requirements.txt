@@ -7,3 +7,4 @@ pydantic==2.10.5
 rotating-proxies==0.0.1
 beautifulsoup4==4.11.1
 spacy=3.2.4
+mediapipe
