@@ -21,7 +21,7 @@ git clone https://github.com/VamshiNarmety/Linkedin_profile_match
 ```
 ## 2. Create a Virtual Environment
 Navigate to the project directory and create a virtual environment by running the following command in the terminal:
-`python3 -m venv venv`
+```bash python3 -m venv venv```
 ## 3. Activate the Virtual Environment
 ## 4. Install Python 3.10.x
 
@@ -29,7 +29,7 @@ Navigate to the project directory and create a virtual environment by running th
 
 With the virtual environment activated, install the required dependencies by running the following command:
 
-`pip install -r requirements.txt`
+```bash pip install -r requirements.txt```
 
 
 ## Configuration
